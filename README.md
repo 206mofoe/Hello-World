@@ -1,2 +1,2 @@
 # Hello-World
-Just getting started!
+Beginner backend developer from Seattle
